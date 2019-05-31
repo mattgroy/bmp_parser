@@ -1,0 +1,2 @@
+class BMPException(Exception):
+    pass
